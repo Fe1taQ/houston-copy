@@ -1,0 +1,40 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-family: 'Open Sans', sans-serif;
+}
+table,th,td{
+    border: 1px solid black;
+    border-color: black;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    font-size: 32px;
+}
+table{
+    max-width: max-content;
+}
+figcaption{
+    text-align: center;
+}
+figure {
+    clear: right;
+    float: right; width: 12em;
+}
+#eth {
+    height: 135px;
+    width: 165px;
+}
+img {
+    height: 180px;
+    width: 180px;
+    border-radius: 25%;
+}
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
